@@ -1,0 +1,110 @@
+<!-- class="mat-elevation-z8" class="edit-form" -->
+<mat-toolbar>
+        <mat-icon mat-mini-fab color="primary" aria-hidden="false" aria-label="Example home icon" class = 'pointer' (click) = 'Onclick()'>home</mat-icon>
+</mat-toolbar>
+
+<section  >
+  <mat-card class="mat-elevation-z12" class="edit-form"> 
+  
+        <form [formGroup] = 'editform' (ngSubmit) = 'OnSubmit()' novalidate>
+            <fieldset>
+              <mat-form-field class="edit-full-width">
+                <input formControlName = 'id' type="number" matInput placeholder="id"/>
+              </mat-form-field>
+
+              <mat-error>  
+                  <span *ngIf="!editform.get('id').valid && editform.get('id').touched">Please enter id numeric and maximum one digit !!!</span>  
+              </mat-error>  
+              
+              <mat-form-field class="edit-full-width">
+                <input formControlName = 'productname' type="text" matInput placeholder="productname"/>
+              </mat-form-field>
+
+              <mat-error>  
+                  <span *ngIf="!editform.get('productname').valid && editform.get('productname').touched">Please enter prooduct name, alphabets and 6 charcters only !!!</span>  
+              </mat-error>
+            
+              <mat-form-field class="edit-full-width">
+                <input formControlName = 'category' type="text" matInput placeholder="category" />
+              </mat-form-field>
+
+              <mat-error>  
+                  <span *ngIf="!editform.get('category').valid && editform.get('category').touched">Please enter category, alphanumeric and 5 charcters only !!!</span>  
+              </mat-error>
+            
+              <mat-form-field class="edit-full-width">
+                    <input formControlName = 'availableunits' type="number" matInput placeholder="availableunits" />
+              </mat-form-field>
+
+              <mat-error>  
+                  <span *ngIf="!editform.get('availableunits').valid && editform.get('availableunits').touched">Please enter avaliableunits, numeric only !!!</span>  
+              </mat-error>
+
+              <mat-form-field class="edit-full-width">
+                    <input formControlName = 'unitprice' type="number" matInput placeholder="unitprice" />
+              </mat-form-field>
+
+              <mat-error>  
+                  <span *ngIf="!editform.get('unitprice').valid && editform.get('unitprice').touched">Please enter unitprice, numeric only !!!</span>  
+              </mat-error>
+
+              <mat-form-field class="edit-full-width">
+                  <input formControlName = 'tags' type="text" matInput placeholder="comma-seprated-values" />
+            </mat-form-field>
+
+            <!-- <mat-error>  
+                <span *ngIf=" editform.get('tags').touched">Please enter tags !!!</span>  
+            </mat-error> -->
+              
+              <mat-form-field class="edit-full-width">
+                    <input formControlName = 'lastupdate' readonly type="datetime-local" matInput placeholder="lastupdate" />
+              </mat-form-field> 
+
+              <!-- <mat-error>  
+                  <span *ngIf=" editform.get('lastupdate').touched">Please enter lastupdate !!!</span>  
+              </mat-error> -->
+
+            <section formGroupName = 'location'>
+            
+                <mat-form-field class="edit-full-width">
+                    <input formControlName = 'area' type="text" matInput placeholder="area" />
+                </mat-form-field>
+
+                <mat-error>  
+                    <span *ngIf="!editform.get('location.area').valid && editform.get('location.area').touched">Please enter adress details, alphabatical only !!!</span>  
+                </mat-error>
+
+                <mat-form-field class="edit-full-width">
+                    <input formControlName = 'zone' type="text" matInput placeholder="zone" />
+                </mat-form-field>
+
+                <mat-error>  
+                    <span *ngIf="!editform.get('location.zone').valid && editform.get('location.zone').touched">Please enter adress details, alphabatical only !!!</span>  
+                </mat-error>
+            
+                <mat-form-field class="edit-full-width">
+                    <input formControlName = 'shelf' type="text" matInput placeholder="shelf" />
+                </mat-form-field>
+
+                <mat-error>  
+                    <span *ngIf="!editform.get('location.shelf').valid && editform.get('location.shelf').touched">Please enter adress details, alphabatical only !!!</span>  
+                </mat-error>
+
+            </section>
+            <mat-form-field class="edit-full-width">
+              <input formControlName = 'description' type="text" matInput placeholder="description" />
+          </mat-form-field>
+
+          <mat-error>  
+              <span *ngIf="!editform.get('description').valid && editform.get('description').touched">Please enter description !!!</span>  
+          </mat-error>
+            
+                <button mat-raised-button color='primary' type="submit"  [disabled]="!editform.valid" >Submit</button>
+            
+            </fieldset>
+        </form>
+   
+  </mat-card>
+</section>
+
+<!-- [disabled]="!editform.valid" -->

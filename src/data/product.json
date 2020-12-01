@@ -1,0 +1,1049 @@
+{
+  "data": [
+    {
+      "id": "973888b9-f5db-47f5-87c5-47db1fb5fd27",
+      "productname": "anuj",
+      "category": "e9bd9963-d146-4869-9daa-6cffd9cf9003",
+      "availableunits": 549163,
+      "unitprice": 703,
+      "tags": [
+        "cupidatat",
+        "sit",
+        "et"
+      ],
+      "lastupdate": 1585504497705,
+      "location": {
+        "area": "qui",
+        "zone": "occaecat",
+        "shelf": "d0608cf9-b984-48ac-81a4-d44915347686"
+      },
+      "description": "let's rock"
+    },
+    {
+      "id": "43c9eb5b-f158-4183-9695-ec42bba02c93",
+      "productname": "eiusm",
+      "category": "06449178-0c69-43ba-82a7-6b397dc3bd58",
+      "availableunits": 2070,
+      "unitprice": 959,
+      "tags": [
+        "anim",
+        "adipisicing",
+        "dolor"
+      ],
+      "lastupdate": 1600753167110,
+      "location": {
+        "area": "jhgjkuihui",
+        "zone": "proidentyyy",
+        "shelf": "18f6b580-e9f8-4b27-abea-bb72ff5b3666"
+      },
+      "description": "irure mollit eu"
+    },
+    {
+      "id": "eef1ea69-7431-49ba-a1ec-196b9c9083a0",
+      "productname": "auur",
+      "category": "457aab1c-aa03-46a0-824f-ee0532cea386",
+      "availableunits": 193519,
+      "unitprice": 731,
+      "tags": [
+        "officia",
+        "quis",
+        "ex"
+      ],
+      "lastupdate": 1568699439932,
+      "location": {
+        "area": "nostrud",
+        "zone": "id",
+        "shelf": "382f2d10-b991-4a79-83a9-db39d53286ed"
+      },
+      "description": "laboris do laborum"
+    },
+    {
+      "id": "ca7d3485-7639-437b-b322-91949af06020",
+      "productname": "abc",
+      "category": "0b446ccd-623d-4af0-88e0-efeb9594ff13",
+      "availableunits": 346032,
+      "unitprice": 680,
+      "tags": [
+        "sunt",
+        "occaecat",
+        "sit"
+      ],
+      "lastupdate": 1568704970190,
+      "location": {
+        "area": "quis",
+        "zone": "sit",
+        "shelf": "ad48d150-3110-430f-bfc9-a22c9feeef30"
+      },
+      "description": "amet dolore fugiat"
+    },
+    {
+      "id": "7b045dea-9913-4ef2-8192-d204b97f49d7",
+      "productname": "ullamcohk",
+      "category": "9c4810fc-4080-486d-90a1-91e676205c36",
+      "availableunits": 312100,
+      "unitprice": 700,
+      "tags": [
+        "quis",
+        "enim",
+        "ipsum"
+      ],
+      "lastupdate": 1568642320007,
+      "location": {
+        "area": "do",
+        "zone": "quis",
+        "shelf": "4a52dced-66ea-4de2-aaf3-b8d1e9b1ce34"
+      },
+      "description": "veniam quis et"
+    },
+    {
+      "id": "35b20047-2e89-4f72-aa05-a4cc889ccdb2",
+      "productname": "elit",
+      "category": "b4cf66fe-b388-4912-b5c2-07a98bba0087",
+      "availableunits": 568935,
+      "unitprice": 329,
+      "tags": [
+        "quis",
+        "dolore",
+        "aliquip"
+      ],
+      "lastupdate": 1568702088477,
+      "location": {
+        "area": "officia",
+        "zone": "ut",
+        "shelf": "eb83e76b-2893-4aee-be76-e0b2062f3ce0"
+      },
+      "description": "veniam ipsum ex"
+    },
+    {
+      "id": "21555272-721d-49e1-9f2f-f9c8b0da8bc4",
+      "productname": "reprehenderi",
+      "category": "6a6bb997-5e06-4ca4-9363-f841d6a7e146",
+      "availableunits": 378084,
+      "unitprice": 859,
+      "tags": [
+        "laboris",
+        "laborum",
+        "nostrud"
+      ],
+      "lastupdate": 1568703463948,
+      "location": {
+        "area": "sint",
+        "zone": "et",
+        "shelf": "fc197d43-de4e-4812-a40a-44d943a6b446"
+      },
+      "description": "consequat non in"
+    },
+    {
+      "id": "9cacdec2-1c91-40f9-b615-84fb87b7efe2",
+      "productname": "consectet",
+      "category": "d9b6c74d-600b-48c4-bac9-40a20a9faf6d",
+      "availableunits": 770036,
+      "unitprice": 191,
+      "tags": [
+        "cillum",
+        "velit",
+        "cillum"
+      ],
+      "lastupdate": 1568703902220,
+      "location": {
+        "area": "in",
+        "zone": "deserunt",
+        "shelf": "a7193444-857d-473e-b48d-244f735de6ef"
+      },
+      "description": "est dolor ad"
+    },
+    {
+      "id": "d8d86c2f-b875-4cbf-834d-46b858d31b67",
+      "productname": "quiss",
+      "category": "9794f253-c3ee-4af7-896e-3b9565e0e0fe",
+      "availableunits": 283110,
+      "unitprice": 138,
+      "tags": [
+        "in",
+        "cupidatat",
+        "nulla"
+      ],
+      "lastupdate": 1568703894490,
+      "location": {
+        "area": "quis",
+        "zone": "irure",
+        "shelf": "8fe177a4-f648-4a34-8776-f3973b9657e6"
+      },
+      "description": "consectetur irure pariatur"
+    },
+    {
+      "id": "554028cf-0ca4-4b24-9873-3158d184eae7",
+      "productname": "doio",
+      "category": "457369f3-c2c0-4e4d-8416-795121fede7a",
+      "availableunits": 235355,
+      "unitprice": 590,
+      "tags": [
+        "irure",
+        "officia",
+        "duis"
+      ],
+      "lastupdate": 1568703084359,
+      "location": {
+        "area": "dolore",
+        "zone": "sunt",
+        "shelf": "b622423c-f601-4a71-9244-271494bdac8e"
+      },
+      "description": "incididunt nulla culpa"
+    },
+    {
+      "id": "5fcdd05c-ba8a-498c-9068-b1db4ca6ba24",
+      "productname": "consequat",
+      "category": "8ec8ba8e-0073-45e1-bcfe-51c1fa88773e",
+      "availableunits": 370119,
+      "unitprice": 146,
+      "tags": [
+        "labore",
+        "dolore",
+        "laborum"
+      ],
+      "lastupdate": 1482883600000,
+      "location": {
+        "area": "enim",
+        "zone": "et",
+        "shelf": "d8963759-0a4f-40b4-8239-047941d25a15"
+      },
+      "description": "elit anim tempor"
+    },
+    {
+      "id": "3423a756-1a57-4aeb-b4cc-e1436a24f7cf",
+      "productname": "do",
+      "category": "8e734157-b048-4c08-a577-c783f2a8b5ed",
+      "availableunits": 622291,
+      "unitprice": 431,
+      "tags": [
+        "dolore",
+        "veniam",
+        "labore"
+      ],
+      "lastupdate": 1474590164000,
+      "location": {
+        "area": "ex",
+        "zone": "excepteur",
+        "shelf": "fd65a727-e0ca-4dd4-8d8d-b2a6ca51f98d"
+      },
+      "description": "cupidatat ullamco aliqua"
+    },
+    {
+      "id": "b6a83e5b-bf1a-4c62-9a99-18f8eb5356a1",
+      "productname": "nostrud",
+      "category": "a03082cc-4898-473c-b1ff-008aa31c07ed",
+      "availableunits": 536912,
+      "unitprice": 644,
+      "tags": [
+        "sit",
+        "velit",
+        "amet"
+      ],
+      "lastupdate": 1513885376000,
+      "location": {
+        "area": "nulla",
+        "zone": "officia",
+        "shelf": "402e3351-9cea-44f5-b200-ac684cd04383"
+      },
+      "description": "nisi veniam dolor"
+    },
+    {
+      "id": "3e78204e-f6d9-4e12-862b-934532073f26",
+      "productname": "ea",
+      "category": "1019b10e-1195-4800-a58a-c8160550a2d4",
+      "availableunits": 106307,
+      "unitprice": 105,
+      "tags": [
+        "duis",
+        "deserunt",
+        "laboris"
+      ],
+      "lastupdate": 1537030511000,
+      "location": {
+        "area": "commodo",
+        "zone": "aute",
+        "shelf": "068dadcc-1f05-484f-a879-3f483797a079"
+      },
+      "description": "cillum exercitation aliquip"
+    },
+    {
+      "id": "5c414a6a-9479-46a6-9865-30620995812a",
+      "productname": "non",
+      "category": "9da21c6d-b9ec-4fa9-9db9-6f679af3e816",
+      "availableunits": 894919,
+      "unitprice": 832,
+      "tags": [
+        "ex",
+        "voluptate",
+        "veniam"
+      ],
+      "lastupdate": 1465060064000,
+      "location": {
+        "area": "commodo",
+        "zone": "pariatur",
+        "shelf": "cd793e7f-8287-4248-b8bb-2c37e5c27ef8"
+      },
+      "description": "duis id esse"
+    },
+    {
+      "id": "4be4d13b-8462-4898-ada0-df772cf4a398",
+      "productname": "nostrud",
+      "category": "2e3c11a5-c740-41aa-b2fb-7ad00cb006d3",
+      "availableunits": 520857,
+      "unitprice": 457,
+      "tags": [
+        "ipsum",
+        "in",
+        "labore"
+      ],
+      "lastupdate": 1495663302000,
+      "location": {
+        "area": "officia",
+        "zone": "ullamco",
+        "shelf": "31b8a7f3-68b2-415e-b33e-464afa7833cb"
+      },
+      "description": "deserunt occaecat nostrud"
+    },
+    {
+      "id": "27e22069-0028-49ef-aa88-2fa045324730",
+      "productname": "sint",
+      "category": "68b9098d-fcd9-49b1-977f-c028374ad6dc",
+      "availableunits": 693661,
+      "unitprice": 955,
+      "tags": [
+        "velit",
+        "veniam",
+        "laborum"
+      ],
+      "lastupdate": 1479633297000,
+      "location": {
+        "area": "veniam",
+        "zone": "proident",
+        "shelf": "cb36d884-993b-4224-b6ac-53b1819ab363"
+      },
+      "description": "eu deserunt ex"
+    },
+    {
+      "id": "eb0a009c-ca6f-4612-a700-84747c7ac37d",
+      "productname": "velit",
+      "category": "fccb3fb2-a34d-4cbd-88d5-64a4679dc22a",
+      "availableunits": 405594,
+      "unitprice": 177,
+      "tags": [
+        "pariatur",
+        "adipisicing",
+        "elit"
+      ],
+      "lastupdate": 1549462543000,
+      "location": {
+        "area": "anim",
+        "zone": "esse",
+        "shelf": "3ae3e469-035f-49c7-85dc-309745c9c33a"
+      },
+      "description": "velit elit et"
+    },
+    {
+      "id": "64dbcd79-1f23-497a-998d-9d4aaa975670",
+      "productname": "dolore",
+      "category": "2e69be4f-ea66-49a2-9736-c98d43aa4c31",
+      "availableunits": 847992,
+      "unitprice": 737,
+      "tags": [
+        "ut",
+        "officia",
+        "amet"
+      ],
+      "lastupdate": 1547024377000,
+      "location": {
+        "area": "adipisicing",
+        "zone": "incididunt",
+        "shelf": "958faa8f-52df-4b0e-804c-01de3f05fd71"
+      },
+      "description": "occaecat in deserunt"
+    },
+    {
+      "id": "ce525228-644c-4174-bdfc-54b497ef18e3",
+      "productname": "quis",
+      "category": "2fc1726a-ff89-43f8-9327-fd1ae2625dcd",
+      "availableunits": 521555,
+      "unitprice": 133,
+      "tags": [
+        "id",
+        "nisi",
+        "nisi"
+      ],
+      "lastupdate": 1478175828000,
+      "location": {
+        "area": "consequat",
+        "zone": "tempor",
+        "shelf": "587ecf96-5e1b-4cad-b86b-cffb2b3ba38f"
+      },
+      "description": "laboris minim non"
+    },
+    {
+      "id": "08e63327-2776-4714-b43b-b4fd4a07ba7b",
+      "productname": "quis",
+      "category": "a16d207a-4eb8-4506-b2ae-a4298b76110f",
+      "availableunits": 585578,
+      "unitprice": 228,
+      "tags": [
+        "ipsum",
+        "voluptate",
+        "do"
+      ],
+      "lastupdate": 1468671372000,
+      "location": {
+        "area": "aliqua",
+        "zone": "ipsum",
+        "shelf": "2284bb9e-770c-47c0-a9dd-00de230f6bdb"
+      },
+      "description": "duis veniam fugiat"
+    },
+    {
+      "id": "26a0884b-174a-405f-9c1c-f282bf149fd8",
+      "productname": "id",
+      "category": "aaad93ac-659f-4015-96ba-00b3dd27b0c3",
+      "availableunits": 549536,
+      "unitprice": 232,
+      "tags": [
+        "irure",
+        "nulla",
+        "consectetur"
+      ],
+      "lastupdate": 1519318640000,
+      "location": {
+        "area": "deserunt",
+        "zone": "enim",
+        "shelf": "698e3ed1-ed35-4562-b3e7-171c13e38d6a"
+      },
+      "description": "minim tempor deserunt"
+    },
+    {
+      "id": "6b50bcbe-c3a5-4404-8a11-efe8a8e4308f",
+      "productname": "proident",
+      "category": "170278dd-687e-4982-b9d5-f63382c191a6",
+      "availableunits": 441498,
+      "unitprice": 987,
+      "tags": [
+        "incididunt",
+        "mollit",
+        "anim"
+      ],
+      "lastupdate": 1486488477000,
+      "location": {
+        "area": "consequat",
+        "zone": "do",
+        "shelf": "d1aecc11-f37b-475b-8f10-6cb905eb13f5"
+      },
+      "description": "cupidatat labore velit"
+    },
+    {
+      "id": "60c7d878-2388-4750-8e6d-cd2e5e6d4749",
+      "productname": "Lorem",
+      "category": "c69f8070-27cc-4ccd-b7ec-ac787a8e372a",
+      "availableunits": 454707,
+      "unitprice": 368,
+      "tags": [
+        "elit",
+        "officia",
+        "est"
+      ],
+      "lastupdate": 1493280219000,
+      "location": {
+        "area": "reprehenderit",
+        "zone": "magna",
+        "shelf": "ccfa6fff-5020-48b6-95d6-50e2777ca1b0"
+      },
+      "description": "commodo cillum nostrud"
+    },
+    {
+      "id": "cd4927c9-ac1a-4d5a-9144-e1cb09973657",
+      "productname": "culpa",
+      "category": "d3f8bf24-0588-440d-b89e-ff3f7ac3b7f7",
+      "availableunits": 458907,
+      "unitprice": 951,
+      "tags": [
+        "velit",
+        "tempor",
+        "et"
+      ],
+      "lastupdate": 1553568214000,
+      "location": {
+        "area": "cillum",
+        "zone": "laboris",
+        "shelf": "9217b823-934d-44a4-965f-be2066cda50a"
+      },
+      "description": "culpa ullamco in"
+    },
+    {
+      "id": "0a11b966-b609-4172-847c-7d65fb5c4620",
+      "productname": "sint",
+      "category": "33d39e1a-cdb8-47d5-8879-4e689f064ddf",
+      "availableunits": 436776,
+      "unitprice": 398,
+      "tags": [
+        "aute",
+        "fugiat",
+        "incididunt"
+      ],
+      "lastupdate": 1423347718000,
+      "location": {
+        "area": "velit",
+        "zone": "excepteur",
+        "shelf": "03892f53-2c92-4d82-ac3c-ec6531a7bae1"
+      },
+      "description": "cupidatat aute non"
+    },
+    {
+      "id": "74834a54-cd8b-464a-8391-f69fad777db7",
+      "productname": "quis",
+      "category": "6f9bf635-1534-42ae-b34f-15a058bc91e7",
+      "availableunits": 897438,
+      "unitprice": 667,
+      "tags": [
+        "tempor",
+        "officia",
+        "voluptate"
+      ],
+      "lastupdate": 1436698727000,
+      "location": {
+        "area": "tempor",
+        "zone": "non",
+        "shelf": "bc4b6991-2833-45ae-be96-803eba6a8f57"
+      },
+      "description": "veniam voluptate labore"
+    },
+    {
+      "id": "80838865-9f78-4a2e-8765-74cfc26d11d7",
+      "productname": "elit",
+      "category": "b9b84cd8-c0b0-47d0-827a-eab4fc68d8e4",
+      "availableunits": 360968,
+      "unitprice": 532,
+      "tags": [
+        "velit",
+        "sint",
+        "cupidatat"
+      ],
+      "lastupdate": 1488725295000,
+      "location": {
+        "area": "amet",
+        "zone": "laborum",
+        "shelf": "0d9b9024-050f-4cdf-9531-a0b861238be5"
+      },
+      "description": "aute enim quis"
+    },
+    {
+      "id": "e78aaff6-bcc5-4526-bdd9-327d26fb1034",
+      "productname": "proident",
+      "category": "83171170-4900-46d4-8b32-3e0923989169",
+      "availableunits": 773134,
+      "unitprice": 52,
+      "tags": [
+        "veniam",
+        "sunt",
+        "occaecat"
+      ],
+      "lastupdate": 1547073992000,
+      "location": {
+        "area": "exercitation",
+        "zone": "velit",
+        "shelf": "ac148bc3-f98b-45cd-b2df-db46583f7f65"
+      },
+      "description": "dolor voluptate irure"
+    },
+    {
+      "id": "6763e8b5-abd9-424f-958c-ca132fdde26e",
+      "productname": "esse",
+      "category": "1a5160b7-6e55-4453-8ea9-d68067123d4f",
+      "availableunits": 598130,
+      "unitprice": 99,
+      "tags": [
+        "veniam",
+        "aute",
+        "magna"
+      ],
+      "lastupdate": 1412818067000,
+      "location": {
+        "area": "magna",
+        "zone": "do",
+        "shelf": "dbb70060-9585-4f33-b014-afb5cef62f6d"
+      },
+      "description": "nulla fugiat nostrud"
+    },
+    {
+      "id": "beefe869-9866-4770-aa00-3e9646cce237",
+      "productname": "est",
+      "category": "4b3df149-0cbb-4942-a8a2-e18f4c102008",
+      "availableunits": 882476,
+      "unitprice": 847,
+      "tags": [
+        "veniam",
+        "eiusmod",
+        "qui"
+      ],
+      "lastupdate": 1567456712000,
+      "location": {
+        "area": "velit",
+        "zone": "consequat",
+        "shelf": "01fef567-ee83-440c-919e-5d066e678a17"
+      },
+      "description": "quis ea cupidatat"
+    },
+    {
+      "id": "6ae62bf6-aaa9-4364-913b-da0e97813b35",
+      "productname": "nisi",
+      "category": "0562ddb7-9663-4392-8691-ffaaed7688f6",
+      "availableunits": 517083,
+      "unitprice": 444,
+      "tags": [
+        "culpa",
+        "adipisicing",
+        "ex"
+      ],
+      "lastupdate": 1391941144000,
+      "location": {
+        "area": "eu",
+        "zone": "ipsum",
+        "shelf": "a22b45e6-673e-4c22-bc46-624ad4ca27b6"
+      },
+      "description": "velit culpa in"
+    },
+    {
+      "id": "8e960a1a-4ed0-46fb-bd97-f558943d050c",
+      "productname": "exercitation",
+      "category": "c27eca0b-bb0d-4fda-a4c1-34d8cb2aab6c",
+      "availableunits": 713377,
+      "unitprice": 957,
+      "tags": [
+        "quis",
+        "irure",
+        "irure"
+      ],
+      "lastupdate": 1496296053000,
+      "location": {
+        "area": "cillum",
+        "zone": "cupidatat",
+        "shelf": "01b05cef-a9f4-47b5-9591-58ea2765ab56"
+      },
+      "description": "in adipisicing esse"
+    },
+    {
+      "id": "bcf2b5b3-a27b-413d-a4dd-d5d12b823b1a",
+      "productname": "aliquip",
+      "category": "8db014ea-ce3b-40a3-ba76-85c2f6d4f80d",
+      "availableunits": 173512,
+      "unitprice": 541,
+      "tags": [
+        "veniam",
+        "sunt",
+        "officia"
+      ],
+      "lastupdate": 1494595738000,
+      "location": {
+        "area": "esse",
+        "zone": "sint",
+        "shelf": "3c1ed99c-cd26-4a47-b0b0-1cdfbb209c19"
+      },
+      "description": "cillum cillum ipsum"
+    },
+    {
+      "id": "99967fc9-046d-4e16-ac68-dd876df6fe09",
+      "productname": "sit",
+      "category": "9fa387cb-6c93-432a-b49d-ad892d8f997e",
+      "availableunits": 748539,
+      "unitprice": 365,
+      "tags": [
+        "ullamco",
+        "minim",
+        "velit"
+      ],
+      "lastupdate": 1453585963000,
+      "location": {
+        "area": "do",
+        "zone": "velit",
+        "shelf": "c4beced8-cc5f-4509-8c1a-0e048a9b7574"
+      },
+      "description": "enim nostrud non"
+    },
+    {
+      "id": "79194679-63cf-4db9-a42c-a359d0e8ab2e",
+      "productname": "officia",
+      "category": "c16ac1fb-b9a9-4471-a0b1-6d91dc2e257e",
+      "availableunits": 479120,
+      "unitprice": 902,
+      "tags": [
+        "ipsum",
+        "velit",
+        "in"
+      ],
+      "lastupdate": 1530711811000,
+      "location": {
+        "area": "aliqua",
+        "zone": "fugiat",
+        "shelf": "b9ab0e0a-22c1-4ebc-8870-6c7d35ad04e3"
+      },
+      "description": "laborum consectetur sit"
+    },
+    {
+      "id": "ae137c26-c4c3-40ef-a649-5a90191daf8a",
+      "productname": "voluptate",
+      "category": "dae2e746-964f-4225-840c-d6e6aa461638",
+      "availableunits": 304766,
+      "unitprice": 267,
+      "tags": [
+        "ipsum",
+        "labore",
+        "voluptate"
+      ],
+      "lastupdate": 1434455297000,
+      "location": {
+        "area": "sint",
+        "zone": "excepteur",
+        "shelf": "2c7390cd-c512-4ad5-9a33-23297e938fbc"
+      },
+      "description": "cupidatat cillum qui"
+    },
+    {
+      "id": "2d4300a8-6985-46b0-8b41-8fbe4df934b9",
+      "productname": "ad",
+      "category": "0f6a079c-c15c-4184-a06d-dcbab2bf2328",
+      "availableunits": 734102,
+      "unitprice": 101,
+      "tags": [
+        "magna",
+        "proident",
+        "cupidatat"
+      ],
+      "lastupdate": 1411160366000,
+      "location": {
+        "area": "ullamco",
+        "zone": "incididunt",
+        "shelf": "e66b34aa-c894-4013-8983-9053d7f8c7eb"
+      },
+      "description": "esse enim deserunt"
+    },
+    {
+      "id": "8db7ba84-4ecd-455a-8387-9fd27dcf0e31",
+      "productname": "culpa",
+      "category": "ffb2cd41-5351-45b6-9b39-87ab832baee8",
+      "availableunits": 636712,
+      "unitprice": 835,
+      "tags": [
+        "irure",
+        "ex",
+        "sint"
+      ],
+      "lastupdate": 1534164127000,
+      "location": {
+        "area": "veniam",
+        "zone": "dolore",
+        "shelf": "12850039-8dff-458c-b9e3-d5a1cfb59822"
+      },
+      "description": "eu occaecat incididunt"
+    },
+    {
+      "id": "7e46043b-6870-48ca-a696-934357bf5a07",
+      "productname": "sint",
+      "category": "aba04d69-cdce-438c-8446-018f8f0c478f",
+      "availableunits": 299815,
+      "unitprice": 288,
+      "tags": [
+        "laborum",
+        "consectetur",
+        "pariatur"
+      ],
+      "lastupdate": 1428649212000,
+      "location": {
+        "area": "incididunt",
+        "zone": "id",
+        "shelf": "b314ce21-e954-4d4d-939b-60e6d0f8be06"
+      },
+      "description": "exercitation nisi aliquip"
+    },
+    {
+      "id": "811e6b2d-537a-45b9-96dc-6c84c28e0dc9",
+      "productname": "laborum",
+      "category": "39c61fbe-0135-4c7a-8c74-25ccdd9057b5",
+      "availableunits": 762170,
+      "unitprice": 661,
+      "tags": [
+        "ullamco",
+        "dolore",
+        "pariatur"
+      ],
+      "lastupdate": 1543346356000,
+      "location": {
+        "area": "irure",
+        "zone": "aute",
+        "shelf": "20b524ef-5c5e-4788-8083-8d4571638328"
+      },
+      "description": "dolore aute pariatur"
+    },
+    {
+      "id": "9d528f43-3291-41d2-9c38-dd93430f8808",
+      "productname": "aute",
+      "category": "a5b1ab2f-bc57-4e9b-a494-930eebf61dad",
+      "availableunits": 684966,
+      "unitprice": 559,
+      "tags": [
+        "labore",
+        "ipsum",
+        "culpa"
+      ],
+      "lastupdate": 1425852396000,
+      "location": {
+        "area": "dolore",
+        "zone": "aliqua",
+        "shelf": "def766a6-f2cf-4981-845f-46cd98d27630"
+      },
+      "description": "sint enim aliqua"
+    },
+    {
+      "id": "7444d148-55d8-472a-b5fe-fd5594539954",
+      "productname": "sint",
+      "category": "dccbeab3-bf9c-48e7-8680-7251d9bc38d9",
+      "availableunits": 874672,
+      "unitprice": 66,
+      "tags": [
+        "enim",
+        "laboris",
+        "Lorem"
+      ],
+      "lastupdate": 1404019869000,
+      "location": {
+        "area": "sunt",
+        "zone": "amet",
+        "shelf": "70dd1ada-940a-4538-9f51-55a463dfd94c"
+      },
+      "description": "cillum pariatur excepteur"
+    },
+    {
+      "id": "14b6e145-acdc-4d9e-9158-b998389fb9be",
+      "productname": "excepteur",
+      "category": "0a072360-82b5-492b-91cf-35950e6357a5",
+      "availableunits": 895310,
+      "unitprice": 503,
+      "tags": [
+        "nostrud",
+        "adipisicing",
+        "sit"
+      ],
+      "lastupdate": 1469384860000,
+      "location": {
+        "area": "sunt",
+        "zone": "in",
+        "shelf": "e568c7f1-d91d-4eee-9899-6173ed1e8271"
+      },
+      "description": "occaecat ea id"
+    },
+    {
+      "id": "aa618688-f9bf-4754-8b17-fa45d71478ca",
+      "productname": "dolore",
+      "category": "621187a0-91ee-4c00-903e-be597b6b6663",
+      "availableunits": 865239,
+      "unitprice": 582,
+      "tags": [
+        "aliqua",
+        "id",
+        "voluptate"
+      ],
+      "lastupdate": 1459374020000,
+      "location": {
+        "area": "commodo",
+        "zone": "deserunt",
+        "shelf": "873e0f6d-4c9d-4d7e-89a0-be9ff70ef210"
+      },
+      "description": "qui sit aute"
+    },
+    {
+      "id": "c6a9efa1-8ea1-4af7-a77a-9b9bd38795c8",
+      "productname": "ad",
+      "category": "9d268cf8-1c40-41bf-9f8c-e21946fe1aa7",
+      "availableunits": 760341,
+      "unitprice": 436,
+      "tags": [
+        "tempor",
+        "reprehenderit",
+        "nostrud"
+      ],
+      "lastupdate": 1399552928000,
+      "location": {
+        "area": "consequat",
+        "zone": "commodo",
+        "shelf": "2d97b100-791d-4d06-8498-b37be1508912"
+      },
+      "description": "laborum ad ea"
+    },
+    {
+      "id": "85dd91b5-a2af-428c-8a0e-f69d8f9420fb",
+      "productname": "quis",
+      "category": "b09ccdd3-bb32-4d04-b6b6-bd056252cc3b",
+      "availableunits": 446656,
+      "unitprice": 865,
+      "tags": [
+        "enim",
+        "consequat",
+        "duis"
+      ],
+      "lastupdate": 1545545064000,
+      "location": {
+        "area": "nisi",
+        "zone": "consequat",
+        "shelf": "e33f3238-285e-44f1-a6fc-0145b2f0406c"
+      },
+      "description": "proident eu nulla"
+    },
+    {
+      "id": "12a09f3d-4551-4fe7-a137-4f61c9a40eb7",
+      "productname": "laboris",
+      "category": "b5bc97a6-e5f9-4e81-a99d-bb42fd93fb91",
+      "availableunits": 600490,
+      "unitprice": 718,
+      "tags": [
+        "occaecat",
+        "in",
+        "ipsum"
+      ],
+      "lastupdate": 1452381366000,
+      "location": {
+        "area": "anim",
+        "zone": "eu",
+        "shelf": "f6330ffb-495a-41c0-9bc0-62b2d02835be"
+      },
+      "description": "sint aliqua Lorem"
+    },
+    {
+      "id": "6637dd7c-0272-402c-aa95-4001a8337f2c",
+      "productname": "ad",
+      "category": "242dc41f-5e60-463b-9eec-efab4c89c193",
+      "availableunits": 625072,
+      "unitprice": 126,
+      "tags": [
+        "occaecat",
+        "anim",
+        "ut"
+      ],
+      "lastupdate": 1429050374000,
+      "location": {
+        "area": "enim",
+        "zone": "pariatur",
+        "shelf": "bc2b4c87-df7c-439f-844d-15b9e8d8be8d"
+      },
+      "description": "commodo nostrud elit"
+    },
+    {
+      "id": "3f980de3-847a-47d6-945d-48cefd5084fe",
+      "productname": "est",
+      "category": "92254156-496c-45b9-a066-0e427f197aba",
+      "availableunits": 585898,
+      "unitprice": 891,
+      "tags": [
+        "sint",
+        "officia",
+        "in"
+      ],
+      "lastupdate": 1429765516000,
+      "location": {
+        "area": "in",
+        "zone": "ipsum",
+        "shelf": "24204eed-0bd1-430c-90aa-27e9311b9548"
+      },
+      "description": "ullamco dolor velit"
+    },
+    {
+      "id": 8908,
+      "productname": "iopiopi",
+      "category": "iopipoipi",
+      "availableunits": 8908,
+      "unitprice": 768,
+      "tags": [
+        "jkl",
+        "jkljk",
+        "jlk"
+      ],
+      "lastupdate": 1568634933724,
+      "location": {
+        "area": "hkjhj",
+        "zone": "hkjhkj",
+        "shelf": "hjkhjk"
+      },
+      "description": "jkjk"
+    },
+    {
+      "id": 9000,
+      "productname": "uiouoi",
+      "category": "iipoi",
+      "availableunits": 8908,
+      "unitprice": 8908,
+      "tags": [
+        "jlkjl",
+        "kjkl",
+        "jlkjk"
+      ],
+      "lastupdate": 1568635854930,
+      "location": {
+        "area": "uiouoiu",
+        "zone": "iouiuo",
+        "shelf": "iuuou"
+      },
+      "description": "iuiou"
+    },
+    {
+      "id": 890,
+      "productname": "oranges",
+      "category": "ccco",
+      "availableunits": 8906,
+      "unitprice": 95,
+      "tags": [
+        "polk",
+        "uyt",
+        "cat"
+      ],
+      "lastupdate": 1568865558883,
+      "location": {
+        "area": "delhi",
+        "zone": "uiouou",
+        "shelf": "uiouoi"
+      },
+      "description": "uiouiiio"
+    },
+    {
+      "id": 789,
+      "productname": "gamma",
+      "category": "aaa",
+      "availableunits": 768,
+      "unitprice": 67,
+      "tags": [
+        "ghj",
+        "kjh",
+        "lop"
+      ],
+      "lastupdate": 1568872861894,
+      "location": {
+        "area": "gwalior",
+        "zone": "ytr",
+        "shelf": "ytr"
+      },
+      "description": "tre"
+    },
+    {
+      "id": 456,
+      "productname": "aejit",
+      "category": "alpha",
+      "availableunits": 456,
+      "unitprice": 56,
+      "tags": [
+        "ljk",
+        "ljk",
+        "ljk"
+      ],
+      "lastupdate": 1585504216132,
+      "location": {
+        "area": "rewa",
+        "zone": "45",
+        "shelf": "456"
+      },
+      "description": "56456kl;kjnhkjljklk"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<mat-toolbar>
+   <span> <mat-icon mat-mini-fab color="primary" aria-hidden="false" aria-label="Example home icon" (click) = 'OnClickHome()' class="pointer">home</mat-icon></span>
+   <span class="example-fill-remaining-space"></span>
+   <span style="margin-right:20px;">
+    <select value='currency' [(ngModel)] = 'selectcurrency' >
+      <option value="" selected disabled hidden>Currency</option>
+      <option *ngFor='let currency of currencies; let i = index' [attr.data-index]="i" value="{{currency}}" (change)='Onclickcurr($event)'>{{currency}}
+      </option>
+   </select>
+  </span>
+    <span><mat-icon mat-mini-fab color="warn" aria-hidden="false"  (click) = 'OnClickGraph()' class="pointer">|||</mat-icon></span>
+</mat-toolbar>
+<section class="mat-elevation-z8">
+<table mat-table matSort (matSortChange)="sortData($event)" [dataSource]="sortedData.slice( lowValue , highValue)"  >
+
+
+    
+        <!--- Note that these columns can be defined in any order.
+              The actual rendered columns are set as a property on the row definition" -->
+       <!-- ID column -->
+        <ng-container matColumnDef="id">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header='id' > ID </th>
+          <td mat-cell *matCellDef="let element"> {{element.id}} </td>
+        </ng-container>    
+
+
+        <!-- Product Name Column -->
+        <ng-container matColumnDef="productname">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header='productname'> Product Name </th>
+          <td mat-cell *matCellDef="let element"> {{element.productname}} </td>
+        </ng-container>
+      
+        <!-- Category Column -->
+        <ng-container matColumnDef="category">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header='category' > Category </th>
+          <td mat-cell *matCellDef="let element"> {{element.category}} </td>
+        </ng-container>
+      
+        <!-- Avilablunits Column -->
+        <ng-container matColumnDef="availableunits">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header='availableunits' > Availableunits </th>
+          <td mat-cell *matCellDef="let element"> {{element.availableunits}} </td>
+        </ng-container>
+      
+        <!-- Unitprice Column -->
+        <ng-container matColumnDef="unitprice">
+          <th mat-header-cell *matHeaderCellDef mat-sort-header='unitprice'> Unitprice </th>
+          <td mat-cell *matCellDef="let element" > {{ element.unitprice | currency: selectcurrency  }}  </td>
+        </ng-container>
+
+         <!-- Lastupdate Column -->
+         <ng-container matColumnDef="lastupdate">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header='lastupdate'> Lastupdate </th>
+            <td mat-cell *matCellDef="let element"> {{element.lastupdate | date}} </td>
+          </ng-container>
+
+            <!-- Location Column -->
+         <ng-container matColumnDef="location">
+            <th mat-header-cell *matHeaderCellDef> Location </th>
+            <td mat-cell *matCellDef="let element"> Area({{element.location.area}}),Zone({{element.location.zone}}) </td>
+          </ng-container>
+      
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click) = 'OpenDialog(row)'></tr>
+  
+</table>
+
+<mat-paginator [showFirstLastButtons]="true"  [length]="student.length" [pageSize]="pageSize"  [pageSizeOptions]="pageSizeOptions"
+ (page)="pageEvent = getPaginatorData($event)"   >
+</mat-paginator> 
+
+<mat-form-field>
+  <mat-label>Page size</mat-label>
+  <input matInput [(ngModel)]="pageSize" [(ngModel)]="highValue" type="number">
+</mat-form-field>
+
+<div *ngIf="pageEvent">
+  <h5>Page Change Event Properties</h5>
+  <div>Page size: {{pageEvent.pageSize}} && {{pageEvent.highValue}}</div>
+</div>
+
+<mat-form-field>
+  <mat-label>Page Index number</mat-label>
+  <input matInput [(ngModel)]="pageIndex" type="number">
+</mat-form-field>
+
+<div *ngIf="pageEvent">
+  <h5>Page Index Change Event Properties</h5>
+  <div>Page Index: {{pageEvent.pageIndex}} </div>
+</div>
+
+
+
+</section>
+<section>
+  <button mat-raised-button mat-mini-fab color="primary" aria-hidden="false" (click) = 'OnClickAdd()' class="pointer">+</button>
+</section>
+
+
+      

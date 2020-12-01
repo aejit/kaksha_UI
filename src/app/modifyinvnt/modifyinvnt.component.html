@@ -1,0 +1,100 @@
+<h2 mat-dialog-title>Modify inventory</h2>
+<mat-dialog-content *ngIf="data && modifyform">
+        <mat-card class="mat-elevation-z12" class="modify-form"> 
+  
+                <form [formGroup] = 'modifyform'  novalidate (ngSubmit) = "OnSubmitdata(modifyform)">
+                    <fieldset>
+                      <mat-form-field class="modify-full-width">
+                        <input formControlName = 'id' type="number" readonly matInput placeholder="id"/>
+                      </mat-form-field>
+
+                      
+                      <mat-form-field class="modify-full-width">
+                        <input formControlName = 'productname' type="text" matInput placeholder="productname"/>
+                      </mat-form-field>
+        
+                      <mat-error>  
+                          <span *ngIf="!modifyform.get('productname').valid && modifyform.get('productname').touched">Please enter prooduct name, alphabets only !!!</span>  
+                      </mat-error>
+                    
+                      <mat-form-field class="modify-full-width">
+                        <input formControlName = 'category' type="text" matInput placeholder="category" />
+                      </mat-form-field>
+        
+                      <mat-error>  
+                          <span *ngIf="!modifyform.get('category').valid && modifyform.get('category').touched">Please enter category, alphabets and numeric  only !!!</span>  
+                      </mat-error>
+                    
+                      <mat-form-field class="modify-full-width">
+                            <input formControlName = 'availableunits' type="number" matInput placeholder="availableunits" />
+                      </mat-form-field>
+        
+                      <mat-error>  
+                          <span *ngIf="!modifyform.get('availableunits').valid && modifyform.get('availableunits').touched">Please enter avaliableunits, numeric only !!!</span>  
+                      </mat-error>
+        
+                      <mat-form-field class="modify-full-width">
+                            <input formControlName = 'unitprice' type="number" matInput placeholder="unitprice" />
+                      </mat-form-field>
+        
+                      <mat-error>  
+                          <span *ngIf="!modifyform.get('unitprice').valid && modifyform.get('unitprice').touched">Please enter unitprice, numeric only !!!</span>  
+                      </mat-error>
+        
+                      <mat-form-field class="modify-full-width">
+                          <input formControlName = 'tags' type="text" matInput placeholder="comma-seprated-values" />
+                    </mat-form-field>
+        
+                    <!-- <mat-error>  
+                        <span *ngIf=" modifyform.get('tags').touched">Please enter tags !!!</span>  
+                    </mat-error> -->
+                      
+                      <mat-form-field class="modify-full-width">
+                            <input formControlName = 'lastupdate' readonly type="datetime-local"  matInput placeholder="lastupdate" />
+                      </mat-form-field> 
+        
+        
+                    <section formGroupName = 'location'>
+                    
+                        <mat-form-field class="modify-full-width">
+                            <input formControlName = 'area' type="text" matInput placeholder="area" />
+                        </mat-form-field>
+        
+                        <mat-error>  
+                            <span *ngIf="!modifyform.get('location.area').valid && modifyform.get('location.area').touched">Please enter adress details, alphabatical only !!!</span>  
+                        </mat-error>
+        
+                        <mat-form-field class="modify-full-width">
+                            <input formControlName = 'zone' type="text" matInput placeholder="zone" />
+                        </mat-form-field>
+        
+                        <mat-error>  
+                            <span *ngIf="!modifyform.get('location.zone').valid && modifyform.get('location.zone').touched">Please enter adress details, alphabatical only !!!</span>  
+                        </mat-error>
+                    
+                        <mat-form-field class="modify-full-width">
+                            <input formControlName = 'shelf' type="text" matInput placeholder="shelf" />
+                        </mat-form-field>
+        
+                        <mat-error>  
+                            <span *ngIf="!modifyform.get('location.shelf').valid && modifyform.get('location.shelf').touched">Please enter adress details, alphabatical only !!!</span>  
+                        </mat-error>
+        
+                    </section>
+                    <mat-form-field class="modify-full-width">
+                      <input formControlName = 'description' type="text" matInput placeholder="description" />
+                  </mat-form-field>
+        
+                  <!-- <mat-error>  
+                      <span *ngIf="modifyform.get('description').touched">Please enter description !!!</span>  
+                  </mat-error> -->
+                    
+                    </fieldset>
+                <button mat-dialog-close="true" mat-raised-button color='primary' [disabled]="!modifyform.valid" type="submit" >Submit</button>
+
+                </form>
+           
+          </mat-card>
+
+</mat-dialog-content> 
+<!-- [disabled]="!modifyform.valid" -->
